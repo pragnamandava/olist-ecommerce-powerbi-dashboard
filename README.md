@@ -3,6 +3,8 @@ Power BI dashboard analyzing sales, orders, and product performance using the Ol
 #  Olist E-Commerce Analytics Dashboard (Power BI)
 
 ---
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+
 
 ##  Project Overview
 
